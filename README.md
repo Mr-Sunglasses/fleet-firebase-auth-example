@@ -1,4 +1,4 @@
-# Demo app for using firebase with fleet
+# Demo app for using firebase auth with fleet
 
 ## A huge Shoutout to fleet [Fleet team](https://github.com/flet-dev) and [Feodor](https://github.com/FeodorFitsner) for creating this awesome framework.
 
